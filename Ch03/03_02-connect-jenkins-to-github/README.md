@@ -1,6 +1,6 @@
 # 03_02 Connect Jenkins to GitHub
 
-[![Build Status](http://ip172-18-0-43-cig5lk0gftqg00e2e6qg-8080.direct.labs.play-with-docker.com/buildStatus/icon?job=github-pipeline)](http://ip172-18-0-43-cig5lk0gftqg00e2e6qg-8080.direct.labs.play-with-docker.com/job/github-pipeline/)
+[![Build Status](http://ip172-18-0-43-cig5lk0gftqg00e2e6qg-8080.direct.labs.play-with-docker.com/buildStatus/icon?job=github-pipeline&build=6)](http://ip172-18-0-43-cig5lk0gftqg00e2e6qg-8080.direct.labs.play-with-docker.com/job/github-pipeline/6/)
 
 Jenkins can retrieve pipeline configurations from version control systems like GitHub.  In turn, GitHub can connect send webhooks to Jenkins that trigger jobs when a change is pushed to a repo.
 
